@@ -12,7 +12,7 @@ Age group analysis
 State-wise sales performance
 Product category insights
 Marital status and occupation analysis
-🪔 Diwali Sales Analysis using Python
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on Diwali sales data using Python.
@@ -23,6 +23,7 @@ The analysis focuses on:
 Customer demographics
 Gender-based purchasing trends
 Age group analysis
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -30,6 +31,7 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
 📊 Key Analysis Performed
 1. Data Cleaning
 Removed null values
@@ -62,6 +64,7 @@ State-wise Sales Analysis
 7
 Product Category Analysis
 7
+
 ▶️ How to Run the Project
 1. Clone the Repository
 git clone https://github.com/your-username/Diwali-Sales-Analysis.git
